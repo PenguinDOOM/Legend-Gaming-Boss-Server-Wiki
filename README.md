@@ -1,7 +1,7 @@
 # Legend-Gaming-Boss-Server-Wiki
   
 ## Wiki
-[こちら](https://github.com/PenguinDOOM/Legend-Gaming-Boss-Server-Wiki/wiki)]
+[こちら](https://github.com/PenguinDOOM/Legend-Gaming-Boss-Server-Wiki/wiki)  
   
 ## サイトリンク
 [公式サイト](http://legendserver.org/)  
