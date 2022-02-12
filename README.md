@@ -1,4 +1,4 @@
-# Legend-Gaming-Boss-Server-Wiki
+# Legend-Gaming-Boss-Server-Wiki (日本語)
   
 ## Wiki
 [こちら](https://github.com/PenguinDOOM/Legend-Gaming-Boss-Server-Wiki/wiki)  
